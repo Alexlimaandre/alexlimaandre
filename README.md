@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./github-header-banner.png" alt="Banner" width="100%">
+<img src="./git-banner.png" alt="Banner" width="100%">
 </div>
 
 ### Tecnologias / Estudando  
